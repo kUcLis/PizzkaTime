@@ -10,6 +10,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzkaTime", "PizzkaTime.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzkaTime.Database", "..\PizzkaTime.Database\PizzkaTime.Database.csproj", "{4E091C68-83DC-49D0-AD0C-9E8F827D668F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzkaTime.Views", "PizzkaTime.Views\PizzkaTime.Views.csproj", "{E901CF53-953F-4C7C-B344-14608BAC3693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzkaTime.Infrastructure", "PizzkaTime.Infrastructure\PizzkaTime.Infrastructure.csproj", "{3794D5B5-D2EF-44F9-AC54-CDC33F77092F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +28,14 @@ Global
 		{4E091C68-83DC-49D0-AD0C-9E8F827D668F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E091C68-83DC-49D0-AD0C-9E8F827D668F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E091C68-83DC-49D0-AD0C-9E8F827D668F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E901CF53-953F-4C7C-B344-14608BAC3693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E901CF53-953F-4C7C-B344-14608BAC3693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E901CF53-953F-4C7C-B344-14608BAC3693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E901CF53-953F-4C7C-B344-14608BAC3693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3794D5B5-D2EF-44F9-AC54-CDC33F77092F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3794D5B5-D2EF-44F9-AC54-CDC33F77092F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3794D5B5-D2EF-44F9-AC54-CDC33F77092F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3794D5B5-D2EF-44F9-AC54-CDC33F77092F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
