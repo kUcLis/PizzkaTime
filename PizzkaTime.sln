@@ -8,7 +8,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzkaTime", "PizzkaTime.cs
 		{4E091C68-83DC-49D0-AD0C-9E8F827D668F} = {4E091C68-83DC-49D0-AD0C-9E8F827D668F}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzkaTime.Database", "..\PizzkaTime.Database\PizzkaTime.Database.csproj", "{4E091C68-83DC-49D0-AD0C-9E8F827D668F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzkaTime.Database", "PizzkaTime.Database\PizzkaTime.Database.csproj", "{4E091C68-83DC-49D0-AD0C-9E8F827D668F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
